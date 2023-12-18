@@ -5,13 +5,15 @@
 .header{
     display:flex;
     flex-direction: row;
-    justify-content: space-evenly;
+    justify-content: center;
     margin-top: 10 %;
     height: auto;
 }
 
 .pr1, .pr2, .pr3 {
     text-transform: uppercase;
+    margin-left:60px;
+    margin-right:60px;
 }
 
 .line1 {
